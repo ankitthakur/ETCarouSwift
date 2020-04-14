@@ -12,7 +12,7 @@ Pod::Spec.new do |spec|
   spec.homepage     = "https://github.com/helenhell/ETCarouSwift"
   spec.license      = 'MIT'
   spec.author             = { "Elena Slovushch" => "elena.slovushch@gmail.com" }
-  spec.platform     = :ios, '12.0'
+  spec.platform     = :ios, '11.0'
   spec.source       = { :git => "https://github.com/helenhell/ETCarouSwift.git", :tag => "#{spec.version}" }
 
   spec.source_files  = "ETCarouSwift", "ETCarouSwift/*.{h,swift}"
